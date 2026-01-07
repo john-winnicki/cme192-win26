@@ -1,9 +1,5 @@
-  
-John Winnicki  
-Winter 2025
 
-**CME 192: MATLAB for Scientific Computing and Engineering**  
-**Syllabus and Course Information**
+*CME 192: MATLAB for Scientific Computing and Engineering*
 
 This short course runs for eight weeks/eight lectures and is offered in the Winter quarter during the academic year. It is intended for both students with prior programming experience who are expected to use MATLAB in math, science, or engineering courses, and for ambitious students with no prior programming experience. It consists of interactive lectures and application-based assignments. The goal of the course is to make students fluent in MATLAB and to provide familiarity with its wide array of features, in real-world settings. We will have a special emphasis on learning how to actually apply MATLAB outside of a classroom setting. The course introduces essential MATLAB programming concepts and data structures, and builds toward applied scientific computing workflows involving visualization, numerical linear algebra, simulation, machine learning, and toolbox-driven analysis in realistic problem settings.
 
