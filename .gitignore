@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+Icon?
+._*
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# MATLAB cache/autosave
+*.asv
+*.autosave
+*.m~
+*.bak
+*.orig
+slprj/
+sccprj/
+codegen/
+*.mex*
