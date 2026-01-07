@@ -1,6 +1,6 @@
 # CME 192: MATLAB for Scientific Computing and Engineering (Winter 2026)
 
-Welcome to **CME 192** — an 8-lecture, application-driven short course designed to make you **fluent in MATLAB** and comfortable building **real scientific computing workflows** (not just toy exercises).
+Welcome to **CME 192**: an 8-lecture, application-driven short course designed to make you **fluent in MATLAB** and comfortable building **real scientific computing workflows** (not just toy exercises).
 
 This repository is the central home for:
 - **Lecture slides**
