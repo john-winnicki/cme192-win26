@@ -13,7 +13,7 @@ This repository is the central home for:
 
 ## Course info (quick reference)
 
-- **Instructor:** John Winnicki — winnicki@stanford.edu  
+- **Instructor:** John Winnicki (winnicki@stanford.edu)
 - **Quarter:** Winter 2026  
 - **Meetings:** Thursdays 4:30–5:20 PM  
 - **Location:** Hewlett Teaching Center 102  
@@ -37,50 +37,8 @@ Topics include:
 7. Image processing and signal processing  
 8. Parallel processing (multicore + GPU)
 
-By the end of the course, you should be able to build complete workflows in MATLAB:
-**load → clean → visualize → analyze/model → interpret → present results**.
-
----
-
-## Repository structure
-
-```
-.
-├── lectures/
-│   ├── lecture01_intro/
-│   │   ├── slides.pdf
-│   │   ├── live_script.mlx
-│   │   └── data/
-│   ├── lecture02_plotting/
-│   ├── lecture03_nla_odes_symbolic/
-│   ├── lecture04_bigdata_interfaces_ml/
-│   ├── lecture05_stats_ml/
-│   ├── lecture06_optimization_simulation/
-│   ├── lecture07_image_signal/
-│   └── lecture08_parallel_interactive/
-├── assignments/
-│   ├── assignment1/
-│   │   ├── README.md
-│   │   ├── starter_code/
-│   │   └── data/
-│   └── assignment2/
-│       ├── README.md
-│       ├── starter_code/
-│       └── data/
-├── data/
-│   ├── shared/        # datasets used across multiple lectures/assignments
-│   └── external/      # large datasets (see note below)
-├── resources/
-│   ├── matlab_setup.md
-│   ├── matlab_onramp.md
-│   └── matlab_python_cheatsheet.md
-├── policies/
-│   ├── syllabus.md
-│   ├── grading.md
-│   ├── late_policy.md
-│   └── integrity.md
-└── README.md
-```
+By the end of the course, you should be able to build complete workflows in a variety of domains using MATLAB:
+**load -> clean -> visualize -> analyze/model -> interpret -> present results**.
 
 ---
 
