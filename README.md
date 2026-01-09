@@ -7,7 +7,6 @@ This repository is the central home for:
 - **MATLAB Live Scripts (`.mlx`)**
 - **Required datasets**
 - **Assignment handouts + starter code**
-- Any other course content needed to succeed in the class
 
 ---
 
@@ -17,9 +16,7 @@ This repository is the central home for:
 - **Quarter:** Winter 2026  
 - **Meetings:** Thursdays 4:30–5:20 PM  
 - **Location:** Hewlett Teaching Center 102  
-- **Primary course hub:** Course website (Canvas updated periodically)
-
-> **Support:** Use **Ed Discussion** for Q&A (monitored daily). Email the instructor for confidential issues.
+- **Primary course hub:** Course website (Canvas updated as well)
 
 ---
 
@@ -54,11 +51,6 @@ By the end of the course, you should be able to build complete workflows in a va
 | 6 | Optimization and simulation/modeling |
 | 7 | Image processing and signal processing |
 | 8 | Parallel processing (multicore & GPU), interactive plotting |
-
-Lecture materials are posted under `lectures/lectureXX_*/` as:
-- `slides.pdf`  
-- `live_script.mlx`  
-- any lecture-specific data in `data/`
 
 ---
 
