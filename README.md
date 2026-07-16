@@ -51,9 +51,3 @@ By the end of the course, you should be able to build complete workflows in a va
 | 6 | Optimization and simulation/modeling |
 | 7 | Image processing and signal processing |
 | 8 | Parallel processing (multicore & GPU), interactive plotting |
-
----
-
-## License
-
-Course materials are intended for enrolled students and course staff. Redistribution is not permitted unless explicitly stated.
